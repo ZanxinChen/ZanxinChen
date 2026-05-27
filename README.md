@@ -33,7 +33,7 @@
 
 <p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZanxinChen&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZanxinChen&theme=transparent" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZanxinChen&theme=transparent" alt="Top languages by commit" />
 </p>
 
 <p align="center">
