@@ -2,7 +2,9 @@
 
 # Hi, I'm Zanxin Chen
 
-**Undergraduate researcher interested in Embodied AI, robotic manipulation, and robot learning.**
+**Ph.D. Student | Shanghai Jiao Tong University & Shanghai AI Laboratory**
+
+Embodied AI / Robotic Manipulation / Robot Learning
 
 [![Homepage](https://img.shields.io/badge/Homepage-zanxinchen.github.io-0e75b6?style=flat-square&logo=githubpages&logoColor=white)](https://zanxinchen.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Zanxin%20Chen-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=kgsnw5wAAAAJ)
@@ -12,16 +14,15 @@
 
 ## About Me
 
-- I am an undergraduate student at **Shenzhen University**, majoring in **Mathematical Sciences** and minoring in **Computer Science**.
-- I am currently an intern researcher at **Shanghai AI Laboratory**, working on embodied AI and robotic manipulation.
-- My interests include robotic foundation models, manipulation policy learning, VLA models, diffusion policies, and robot data synthesis.
-- I will start my joint Ph.D. program at **Shanghai Jiao Tong University** and **Shanghai AI Laboratory** in June 2026.
+I am a Ph.D. student in the joint program between **Shanghai Jiao Tong University (SJTU)** and **Shanghai AI Laboratory**. My research focuses on embodied AI and robotic manipulation.
 
-## Current Focus
+Previously, I studied **Mathematical Sciences** with a minor in **Computer Science** at **Shenzhen University** and worked as a research intern at Shanghai AI Laboratory.
 
-- Building scalable benchmarks and data generation pipelines for robot learning.
-- Exploring robust bimanual manipulation with simulation, digital twins, and policy learning.
-- Learning better ways to connect mathematical modeling, AI systems, and real-world robotics.
+## Research Interests
+
+- **Robot learning:** robotic foundation models, vision-language-action (VLA) models, and diffusion policies.
+- **Manipulation:** robust bimanual manipulation and policy learning.
+- **Data and simulation:** robot data synthesis, digital twins, and scalable benchmarks.
 
 ## Tech Stack
 
@@ -32,16 +33,7 @@
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZanxinChen&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZanxinChen&theme=transparent" alt="Top languages by commit" />
+  <a href="https://github.com/ZanxinChen?tab=overview">
+    <img src="https://streak-stats.demolab.com?user=ZanxinChen&theme=transparent&hide_border=true" alt="Zanxin Chen's GitHub contribution streak" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZanxinChen&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
-
-## Find Me
-
-- Personal homepage: [zanxinchen.github.io](https://zanxinchen.github.io/)
-- Google Scholar: [Zanxin Chen](https://scholar.google.com/citations?hl=en&user=kgsnw5wAAAAJ)
-- Email: [zanxinchen25@gmail.com](mailto:zanxinchen25@gmail.com)
